@@ -1,0 +1,1 @@
+You need to use Zadig to install the libusb driver for the keyboard module. The specific operation tutorial can be found on Baidu.
